@@ -20,6 +20,7 @@ h2 {
     font-size: 2.0rem;
     padding-bottom: 10px;
 }
+
 h3 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1.5rem;
@@ -41,10 +42,6 @@ h3 {
 
 p {
     line-height: 2;
-}
-
-.pro {
-    text-decoration: underline;
 }
 
 .top-container {
